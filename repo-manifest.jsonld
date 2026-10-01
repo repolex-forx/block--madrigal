@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/madrigal/commit/b3f511828462ac854d18dce011de638a45d6191d",
       "git:hexsha": "b3f511828462ac854d18dce011de638a45d6191d",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T09:50:57.086392+00:00"
     }
   ]
 }
