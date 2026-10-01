@@ -144,6 +144,162 @@
       ],
       "ast": [
         "aggregate/ast/b3f511828462ac854d18dce011de638a45d6191d/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b3f511828462ac854d18dce011de638a45d6191d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@hono/node-server",
+          "ecosystem": "NPM",
+          "version": "1.13.0",
+          "githubOrg": "honojs",
+          "githubRepo": "node-server",
+          "githubCommit": "64a4a91bc68ba0a4a2ece4a001b98fef6abc397c",
+          "githubTag": "v1.13.0",
+          "githubUrl": "git+https://github.com/honojs/node-server.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "fast-glob",
+          "ecosystem": "NPM",
+          "version": "3.3.2",
+          "githubOrg": "mrmlnc",
+          "githubRepo": "fast-glob",
+          "githubCommit": "e60a9f5f09bc58a3b22b1d7fb767c25f62df0d07",
+          "githubTag": "3.3.2",
+          "githubUrl": "git+https://github.com/mrmlnc/fast-glob.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "gray-matter",
+          "ecosystem": "NPM",
+          "version": "4.0.3",
+          "githubOrg": "jonschlinkert",
+          "githubRepo": "gray-matter",
+          "githubUrl": "git+https://github.com/jonschlinkert/gray-matter.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "hono",
+          "ecosystem": "NPM",
+          "version": "4.6.0",
+          "githubOrg": "honojs",
+          "githubRepo": "hono",
+          "githubCommit": "73ff6c0e82d66468e28ed439481220f56ab03882",
+          "githubTag": "v4.6.0",
+          "githubUrl": "git+https://github.com/honojs/hono.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "yaml",
+          "ecosystem": "NPM",
+          "version": "2.3.4",
+          "githubOrg": "eemeli",
+          "githubRepo": "yaml",
+          "githubCommit": "b7696fc001837a2e9d66ad78d7c04f47943daeca",
+          "githubTag": "v2.3.4",
+          "githubUrl": "git+https://github.com/eemeli/yaml.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@anthropic-ai/sdk",
+          "ecosystem": "NPM",
+          "version": "0.90.0",
+          "githubOrg": "anthropics",
+          "githubRepo": "anthropic-sdk-typescript",
+          "githubUrl": "git+https://github.com/anthropics/anthropic-sdk-typescript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@biomejs/biome",
+          "ecosystem": "NPM",
+          "version": "2.4.10",
+          "githubOrg": "biomejs",
+          "githubRepo": "biome",
+          "githubUrl": "git+https://github.com/biomejs/biome.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@changesets/changelog-github",
+          "ecosystem": "NPM",
+          "version": "0.6.0",
+          "githubOrg": "changesets",
+          "githubRepo": "changesets",
+          "githubUrl": "git+https://github.com/changesets/changesets.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@changesets/cli",
+          "ecosystem": "NPM",
+          "version": "2.31.0",
+          "githubOrg": "changesets",
+          "githubRepo": "changesets",
+          "githubUrl": "git+https://github.com/changesets/changesets.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@modelcontextprotocol/sdk",
+          "ecosystem": "NPM",
+          "version": "1.28.0",
+          "githubOrg": "modelcontextprotocol",
+          "githubRepo": "typescript-sdk",
+          "githubCommit": "a0565695218544fc53e99bf5b544a887d373cefa",
+          "githubTag": "v1.28.0",
+          "githubUrl": "git+https://github.com/modelcontextprotocol/typescript-sdk.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "20.11.0",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lefthook",
+          "ecosystem": "NPM",
+          "version": "2.1.4",
+          "githubOrg": "evilmartians",
+          "githubRepo": "lefthook",
+          "githubCommit": "83ec3a9212b41d20576c45a4b5dc5bccff2d5e8a",
+          "githubTag": "v2.1.4",
+          "githubUrl": "git+https://github.com/evilmartians/lefthook.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.3.3",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "63717cf44a64585175c76c336c8f8d87d5384d16",
+          "githubTag": "v5.3.3",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "vitest",
+          "ecosystem": "NPM",
+          "version": "1.2.0",
+          "githubOrg": "vitest-dev",
+          "githubRepo": "vitest",
+          "githubCommit": "b561c3290de85c58daf7f062cfa0fc163425199e",
+          "githubTag": "v1.2.0",
+          "githubUrl": "git+https://github.com/vitest-dev/vitest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "zod",
+          "ecosystem": "NPM",
+          "version": "4.3.6",
+          "githubOrg": "colinhacks",
+          "githubRepo": "zod",
+          "githubCommit": "ca3c8629c0c2715571f70b44c2433cad3db7fe4e",
+          "githubTag": "v4.3.6",
+          "githubUrl": "git+https://github.com/colinhacks/zod.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
